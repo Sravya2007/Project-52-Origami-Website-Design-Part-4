@@ -35,11 +35,12 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                text-align: center;
             }
 
             .allAnimals1 {
                 
-                background-color: #E0E9E8;
+                background-color: #c4e2df;
                 display: flex;
                 justify-content: space-evenly;
                 flex-wrap: wrap;
@@ -47,6 +48,7 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                text-align: center;
             }
             
             .grid img{
