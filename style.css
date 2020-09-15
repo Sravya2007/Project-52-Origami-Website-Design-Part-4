@@ -1,15 +1,15 @@
             .header {
-                background-color: #5FE6EB;
+                background-color: #FBD4D1;
                 display: flex;
                 justify-content: space-evenly;
                 flex-wrap: wrap;
                 font-size:30px;
                 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                color:#214758;
+                color:#fb574b;
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .header:hover {
@@ -18,17 +18,17 @@
             }
 
             .description {
-                background-color: #9be477;
+                background-color: #F5A0AE;
                 display: flex;
                 justify-content: space-evenly;
                 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
                 font-size:20px;
-                color:#204e37;
+                color:#eb1e3d;
                 flex-wrap: wrap;
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .description:hover {
@@ -37,7 +37,7 @@
             }
 
             .allAnimals {
-                background-color: #ebccdd;
+                background-color: #D0A0A3;
                 display: flex;
                 justify-content: space-evenly;
                 flex-wrap: wrap;
@@ -46,11 +46,11 @@
                 border-radius:20px;
                 text-align: center;
                 position:relative;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .allAnimals1 {
-                background-color: #c4e2df;
+                background-color: #B96B95;
                 display: flex;
                 justify-content: space-evenly;
                 flex-wrap: wrap;
@@ -59,7 +59,7 @@
                 border-radius:20px;
                 text-align: center;
                 position:relative;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
             
             .grid img{
@@ -69,49 +69,49 @@
 
             .panda:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .camel:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .chameleon:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .cicada:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .parrot:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .swan:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .teddy:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .pigeon:hover{
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .panda {
-                background-color: #ffffff46;
+                background-color: #EF456C;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#1f1d1d;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -136,10 +136,10 @@
             }
 
             .chameleon {
-                background-color: #b0e280;
+                background-color: #EF456C;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#335e0a;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -164,10 +164,10 @@
             }
 
             .camel {
-                background-color: #f3e8be;
+                background-color: #EF456C;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#6e684f;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -192,10 +192,10 @@
             }
 
             .pigeon {
-                background-color: #98d4d4;
+                background-color: #8C568A;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#024444;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -220,10 +220,10 @@
             }
 
             .cicada {
-                background-color: #e6dcc6;
+                background-color: #8C568A;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#755206;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -248,10 +248,10 @@
             }
 
             .teddy {
-                background-color: #f5f4cf;
+                background-color: #EF456C;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#504e16;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -276,10 +276,10 @@
             }
 
             .parrot {
-                background-color: #e6a3a3;
+                background-color: #8C568A;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#771414;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -304,10 +304,10 @@
             }
 
             .swan {
-                background-color: #ebceeb;
+                background-color: #8C568A;
                 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 font-size:25px;
-                color:#750b75;
+                color:#ffffff;
                 border-radius:20px;
                 margin:30px;
                 padding:25px;
@@ -332,7 +332,7 @@
             }
 
             .footer {
-                background-color: #e29aca;
+                background-color: #D5B5C2;
                 font-family:'Courier New', Courier, monospace;
                 font-size:25px;
                 display: flex;
@@ -341,7 +341,7 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .footer:hover {
@@ -350,10 +350,10 @@
             }
 
             .c1 {
-                background-color: #F4A460;
+                background-color: #EF456C;
                 display: flex;
                 flex-wrap: wrap;
-                color:#924909;
+                color:#ffffff;
                 font-family:Georgia, 'Times New Roman', Times, serif;
                 font-size:25px;
                 margin:30px;
@@ -383,16 +383,16 @@
 
             .c1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .ch1 {
-                background-color: #b0e280;
+                background-color: #EF456C;
                 display: flex;
                 flex-wrap: wrap;
                 margin:30px;
                 padding:25px;
-                color:#335e0a;
+                color:#ffffff;
                 font-size:25px;
                 font-family:Georgia, 'Times New Roman', Times, serif;
                 border-radius:20px;
@@ -420,11 +420,11 @@
 
             .ch1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .t1 {
-                background-color: #FFA07A;
+                background-color: #EF456C;
                 display: flex;
                 justify-content: space-between;
                 flex-wrap: wrap;
@@ -433,7 +433,7 @@
                 border-radius:20px; 
                 font-family:Georgia, 'Times New Roman', Times, serif;
                 font-size:25px;
-                color:#8a2c08;
+                color:#ffffff;
             }
 
             .t1 img{
@@ -458,11 +458,11 @@
 
             .t1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .p1 {
-                background-color: #868181;
+                background-color: #EF456C;
                 display: flex;
                 justify-content: space-between;
                 flex-wrap: wrap;
@@ -496,11 +496,11 @@
 
             .p1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .ci1 {
-                background-color: #FFFFE0;
+                background-color: #8C568A;
                 display: flex;
                 justify-content: space-between;
                 flex-wrap: wrap;
@@ -508,7 +508,7 @@
                 padding:25px;
                 font-family:Georgia, 'Times New Roman', Times, serif;
                 font-size:25px;
-                color:#7c7c1c;
+                color:#ffffff;
                 border-radius:20px;
             }
 
@@ -535,11 +535,11 @@
 
             .ci1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .pi1 {
-                background-color: #87CEFA;
+                background-color: #8C568A;
                 display: flex;
                 justify-content: space-between;
                 flex-wrap: wrap;
@@ -547,7 +547,7 @@
                 padding:25px;
                 font-family:Georgia, 'Times New Roman', Times, serif;
                 font-size:25px;
-                color:#043f64;
+                color:#ffffff;
                 border-radius:20px;
             }
 
@@ -573,11 +573,11 @@
 
             .pi1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .pa1 {
-                background-color: #BC8F8F;
+                background-color: #8C568A;
                 display: flex;
                 justify-content: space-between;
                 flex-wrap: wrap;
@@ -586,7 +586,7 @@
                 border-radius:20px;
                 font-family:Georgia, 'Times New Roman', Times, serif;
                 font-size:25px;
-                color:#491313;
+                color:#ffffff;
             }
 
             .pa1 img{
@@ -611,11 +611,11 @@
 
             .pa1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .s1 {
-                background-color: #B0E0E6;
+                background-color: #8C568A;
                 display: flex;
                 justify-content: space-between;
                 flex-wrap: wrap;
@@ -624,7 +624,7 @@
                 border-radius:20px;
                 font-family:Georgia, 'Times New Roman', Times, serif;
                 font-size:25px;
-                color:#0d565f;
+                color:#ffffff;
             }
 
             .s1 img{
@@ -649,16 +649,16 @@
 
             .s1:hover {
                 transition-duration: 0.7s;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             body{
-                background-color: #f8e5ee;
+                background-image: linear-gradient(to bottom, #B7CC83 , #FFD57D);
                 margin:0px;
             }
 
             .footer a:link{
-                color: #4ca3a0;
+                color: #582966;
                 text-decoration:none;
             }
 
@@ -668,17 +668,17 @@
             }
 
             .basics {
-                background-color: #c799f1;
+                background-color: #F5A0AE;
                 display: flex;
                 justify-content: space-evenly;
                 flex-wrap: wrap;
                 font-size:25px;
                 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                color:#400974;
+                color:#eb1e3d;
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .basics:hover {
@@ -686,8 +686,8 @@
                 transform:scale(1.02);
             }
 
-            .basics1 {
-                background-color: #5cb171;
+            .basicslinks {
+                background-color: #EF456C;
                 display: flex;
                 flex-wrap: wrap;
                 font-size:25px;
@@ -695,9 +695,38 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
                 width:250px;
                 justify-content: space-evenly;
+            }
+
+            /*.basicslinks:hover {
+                transition-duration: 0.7s;
+                transform:scale(1.02);
+            }*/
+
+            .basicslinks a:link{
+                color: #ffffff;
+                text-decoration:none;
+            }
+
+            .basicslinks a:visited{
+                color: #ffffff;
+                text-decoration:none;
+            }
+
+            .basics1 {
+                background-color: #B96B95;
+                color:#4b2c4a;
+                display: flex;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+                font-size:25px;
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                margin:30px;
+                padding:25px;
+                border-radius:20px;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
             }
 
             .basics1:hover {
@@ -706,17 +735,17 @@
             }
 
             .basics1 a:link{
-                color: #264b2f;
+                color: #ffffff;
                 text-decoration:none;
             }
 
             .basics1 a:visited{
-                color: #264b2f;
+                color: #ffffff;
                 text-decoration:none;
             }
 
-            .basics2 {
-                background-color: #69cccf;
+            .basics1links {
+                background-color: #4b2c4a;
                 display: flex;
                 flex-wrap: wrap;
                 font-size:25px;
@@ -724,109 +753,22 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
+                box-shadow: 5px 5px 5px 5px #4d4d4d;
                 width:250px;
                 justify-content: space-evenly;
             }
 
-            .basics2:hover {
+            /*.basics1links:hover {
                 transition-duration: 0.7s;
                 transform:scale(1.02);
-            }
+            }*/
 
-            .basics2 a:link{
-                color: #2f5758;
+            .basics1links a:link{
+                color: #ffffff;
                 text-decoration:none;
             }
 
-            .basics2 a:visited{
-                color: #2f5758;
-                text-decoration:none;
-            }
-
-            .basics3 {
-                background-color: #f0f19c;
-                display: flex;
-                flex-wrap: wrap;
-                font-size:25px;
-                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                margin:30px;
-                padding:25px;
-                border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
-                width:250px;
-                justify-content: space-evenly;
-            }
-
-            .basics3:hover {
-                transition-duration: 0.7s;
-                transform:scale(1.02);
-            }
-
-            .basics3 a:link{
-                color: #85863f;
-                text-decoration:none;
-            }
-
-            .basics3 a:visited{
-                color: #85863f;
-                text-decoration:none;
-            }
-
-            .basics4 {
-                background-color: #f1c8a0;
-                display: flex;
-                flex-wrap: wrap;
-                font-size:25px;
-                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                margin:30px;
-                padding:25px;
-                border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
-                width:250px;
-                justify-content: space-evenly;
-            }
-
-            .basics4:hover {
-                transition-duration: 0.7s;
-                transform:scale(1.02);
-            }
-
-            .basics4 a:link{
-                color: #df7513;
-                text-decoration:none;
-            }
-
-            .basics4 a:visited{
-                color: #df7513;
-                text-decoration:none;
-            }
-
-            .basics5 {
-                background-color: #fa9797;
-                display: flex;
-                flex-wrap: wrap;
-                font-size:25px;
-                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                margin:30px;
-                padding:25px;
-                border-radius:20px;
-                box-shadow: 5px 5px 5px 5px #999;
-                width:250px;
-                justify-content: space-evenly;
-            }
-
-            .basics5:hover {
-                transition-duration: 0.7s;
-                transform:scale(1.02);
-            }
-
-            .basics5 a:link{
-                color: #db1515;
-                text-decoration:none;
-            }
-
-            .basics5 a:visited{
-                color: #db1515;
+            .basics1links a:visited{
+                color: #ffffff;
                 text-decoration:none;
             }
